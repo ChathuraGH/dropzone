@@ -308,7 +308,7 @@ let defaultOptions = {
    * be ignored.
    */
   dictFallbackText:
-    "Please use the fallback form below to upload your files like in the olden days.",
+    "Please use the fallback form below to upload your files like in the older days.",
 
   /**
    * If the filesize is too big.

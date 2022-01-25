@@ -244,6 +244,7 @@ let defaultOptions = {
    * Dropzone element itself is used. Can be a plain `HTMLElement` or a CSS
    * selector. The element should have the `dropzone-previews` class so
    * the previews are displayed properly.
+    *To display properly the dropzone previews container must also have the "dropzone" class.(If trying to show preview in custom Container.)
    */
   previewsContainer: null,
 

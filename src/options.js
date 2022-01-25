@@ -96,7 +96,7 @@ let defaultOptions = {
   createImageThumbnails: true,
 
   /**
-   * In MB. When the filename exceeds this limit, the thumbnail will not be generated.
+   * In MB. When the filesize exceeds this limit, the thumbnail will not be generated.
    */
   maxThumbnailFilesize: 10,
 
